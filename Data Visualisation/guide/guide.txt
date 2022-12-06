@@ -1,0 +1,3 @@
+In terminal, write make and press enter. This will open the window and asks for the UUID. Each button will give you the histogram respective to their fields.
+
+Bigger the configuration is, the slower it runs.
